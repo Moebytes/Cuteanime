@@ -4,7 +4,7 @@ import path from "path"
 import axios from "axios"
 import fileType from "magic-bytes.js"
 import gifFrames from "gif-frames"
-import {hexToRgb, Color, Solver} from "./Color"
+import {hexToRgb, Color, Solver} from "./Color.ts"
 
 let newScrollY = 0
 let lastScrollTop = 0

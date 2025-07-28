@@ -1,5 +1,5 @@
-import database, {genres} from "../json/database"
-import functions from "./Functions"
+import database, {genres} from "../json/database.js"
+import functions from "./Functions.ts"
 
 export default class DatabaseFunctions {
     public static getRecent = () => {
