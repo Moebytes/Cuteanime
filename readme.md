@@ -87,4 +87,4 @@ To load files from your local hard drive edit the pathname for the route `/Anime
 If you need more detailed instructions, check https://github.com/Moebytes/Cuteanime.moe/issues/1#issuecomment-1570601613.
 
 ### Manga Site
-- [Cutemanga.moe](https://github.com/Moebytes/Cutemanga.moe)
+- [Cutemanga.moe](https://github.com/Moebytes/Cutemanga)
